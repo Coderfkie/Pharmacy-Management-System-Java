@@ -4,9 +4,13 @@ The main objectives of the Pharmacy Management System are:
 
 To manage medicine records efficiently
 To add, update, search, view, and sell medicines
+
 To prevent selling expired or out-of-stock medicines
+
 To apply Object-Oriented Programming concepts in a real-world system
+
 To improve data organization using Java Collections
+
 To provide a user-friendly menu-driven or GUI-based interface
 
 Key OOP Concepts Used:
